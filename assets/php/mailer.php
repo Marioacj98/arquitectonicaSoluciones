@@ -6,7 +6,7 @@ $correo = $_POST['email'];
 $mensaje = $_POST['message'];
 
 //Datos para el correo
-$destinatario = "arquitectonica.soluciones@hotmail.com";
+$destinatario = "marioacj98@gmail.com";
 $asunto = "Nuevo contacto desde Arquitectónica Soluciones";
 
 $mensajeCorreo = "Nuevo mensaje de contacto desde nuestra web de: \n - Nombre: $nombre \n - Teléfono: $telefono \n - Correo: $correo \n - Mensaje: $mensaje";
